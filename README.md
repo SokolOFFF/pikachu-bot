@@ -1,4 +1,4 @@
-# PikachuBot
+# Pikachu Bot
 
 This is project of [telegram bot](https://t.me/PicturePikachuBot) which sends random pictures on the theme chosen by user. 
 
