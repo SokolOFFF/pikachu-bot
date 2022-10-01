@@ -1,6 +1,6 @@
 # PikachuBot
 
-[Telegram bot](https://t.me/PicturePikachuBot) which sends random pictures on the theme chosen by user. 
+This is project of [telegram bot](https://t.me/PicturePikachuBot) which sends random pictures on the theme chosen by user. 
 
 
 To **start** bot, text `/start` command or just activate it. 
