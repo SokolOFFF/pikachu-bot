@@ -11,3 +11,5 @@ To receive a random cute picture:
 - either push `THEMES` button or text `THEMES` in chat;
 - choose the theme of picture;
 - relax and chill :>
+
+_(bot is not released yet)_
